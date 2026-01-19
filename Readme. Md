@@ -1,0 +1,17 @@
+## Level 3 Task 2 – File Encryption & Decryption
+
+This project demonstrates file encryption and decryption using Fernet encryption in Python.
+
+### Features
+- Encrypts text files
+- Decrypts encrypted files
+- Uses secure key-based encryption
+
+### Technologies
+- Python
+- cryptography (Fernet)
+
+### How to Run
+1. Install cryptography
+2. Run encrypt_decrypt.py
+3. Choose E to encrypt or D to decrypt
